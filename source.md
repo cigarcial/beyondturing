@@ -27,23 +27,31 @@ H:
 # Index
 
  1. Color Vision Intro<!-- .element: class="fragment" data-fragment-index="1"-->
-     1. Spectral colors
+     1. Spectral colors and spectral sensitivity
+     2. Human human eye
+     3. Effects
  2. Color Models Intro<!-- .element: class="fragment" data-fragment-index="2"-->
      1. Additive coloring
      1. Subtracting coloring
  3. Color Models<!-- .element: class="fragment" data-fragment-index="3"-->
      1. Additive coloring (RGB)
      1. Subtracting coloring (RYB, CMY(K))
-     1. Non-additive / Non-subtractive (HSV & HSL, CIE 1931 XYZ)
-     1. Others
+     1. ~additive / ~subtractive (HSV & HSL, CIE 1931 XYZ)
      
 H:
 
 ## Color Vision Intro
 
+ 1. Spectral colors <!-- .element: class="fragment" data-fragment-index="1"-->
+ 2. Human human eye <!-- .element: class="fragment" data-fragment-index="2"-->
+ 3. Spectral sensitivity <!-- .element: class="fragment" data-fragment-index="3"-->
+ 4. Normale effects <!-- .element: class="fragment" data-fragment-index="4"-->
+ 5. Anomalies <!-- .element: class="fragment" data-fragment-index="5"-->
+ 6. Vision table <!-- .element: class="fragment" data-fragment-index="6"-->
+
 V:
 
-## Color vision: spectral colors
+## Color vision: Spectral Colors
 ## Visible spectral colors
 
 <figure>
@@ -56,7 +64,7 @@ Mirror -> in terms of frequency (observe infra-red and ultrviolet)
 
 V:
 
-## Color Vision: spectral colors
+## Color Vision: Spectral Colors
 
 <figure>
     <img height='400' src='fig/visible_spectrum_colors.png' />
@@ -65,16 +73,34 @@ V:
 
 V:
 
-## Color Vision: Cells
+## Color Vision: Human Eye
 
-  Vision Cells: 
-
-    1. Cone (photoreceptor) cells -> color: S, M and L
-    2. Rod (photoreceptor) cells -> light
+<figure>
+    <img height='500' src='fig/camera_obscura.jpg' />
+    <figcaption>Camera Obscura</figcaption>
+</figure>
 
 V:
 
-## Color Vision: Spectral sensitivity
+## Color Vision: Human Eye
+
+<figure>
+    <img height='500' src='fig/camera_obscura_box.jpg' />
+    <figcaption>Camera Obscura</figcaption>
+</figure>
+
+V:
+
+## Color Vision: Human Eye
+
+<figure>
+    <img height='500' src='fig/human_eye.jpg' />
+    <figcaption>Human Eye</figcaption>
+</figure>
+
+V:
+
+## Color Vision: Spectral Sensitivity
 
 <figure>
     <img height='400' src='fig/srgb-spectrum.png' />
@@ -175,7 +201,15 @@ V:
 
 V:
 
-## Color Vision: table
+## Color Vision: Vision table
+
+| State         | Cones | Colors | Porters                              |
+|---------------|-------|--------|--------------------------------------|
+| Monochromacy  | 1     | 100    | marine mammals, achromat humans      |
+| Dichromacy    | 2     | 10,000 | most terrestrial non-primate mammals |
+| Trichromacy   | 3     | 1'     | most primates, some insects          |
+| Tetrachromacy | 4     | 100'   | most rept., amph., birds & insects   |
+| Pentachromacy | 5     | 10000' | some insects and birds               |
 
 H:
 
@@ -409,6 +443,15 @@ V:
 <figure>
     <img height='500' src='fig/hsl-hsv_saturation.png'/>
     <figcaption>HSV & HSL "saturation"</figcaption>
+</figure>
+
+V:
+
+## Color Models: HSV and HSL
+
+<figure>
+    <img height='500' src='fig/kcolorchooser.png'/>
+    <figcaption>KColorChooser</figcaption>
 </figure>
 
 V:

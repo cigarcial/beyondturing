@@ -28,7 +28,7 @@ H:
 
  1. Color Vision Intro<!-- .element: class="fragment" data-fragment-index="1"-->
      1. Spectral colors and spectral sensitivity
-     2. Human human eye
+     2. Human eye
      3. Effects
  2. Color Models Intro<!-- .element: class="fragment" data-fragment-index="2"-->
      1. Additive coloring
@@ -43,9 +43,9 @@ H:
 ## Color Vision Intro
 
  1. Spectral colors <!-- .element: class="fragment" data-fragment-index="1"-->
- 2. Human human eye <!-- .element: class="fragment" data-fragment-index="2"-->
+ 2. Human eye <!-- .element: class="fragment" data-fragment-index="2"-->
  3. Spectral sensitivity <!-- .element: class="fragment" data-fragment-index="3"-->
- 4. Normale effects <!-- .element: class="fragment" data-fragment-index="4"-->
+ 4. Normal effects <!-- .element: class="fragment" data-fragment-index="4"-->
  5. Anomalies <!-- .element: class="fragment" data-fragment-index="5"-->
  6. Vision table <!-- .element: class="fragment" data-fragment-index="6"-->
 
@@ -60,7 +60,9 @@ V:
 </figure>
 
 N:
-Mirror -> in terms of frequency (observe infra-red and ultrviolet)
+Mirror -> in terms of frequency (observe infra-red and ultraviolet)
+ * Violet -> ultraviolet -> X rays
+ * Infrared -> microwaves -> FM radio & TV -> AM radio
 
 V:
 
@@ -97,6 +99,10 @@ V:
     <img height='500' src='fig/human_eye.jpg' />
     <figcaption>Human Eye</figcaption>
 </figure>
+
+N:
+* Rod: scotopic vision
+* Cones: color vision
 
 V:
 
@@ -276,7 +282,6 @@ H:
 1. Non-additive non-subtractive  <!-- .element: class="fragment" data-fragment-index="3"-->
     1. HSV & HSL
     1. CIE 1931 XYZ
-1. Others  <!-- .element: class="fragment" data-fragment-index="4"-->
 
 V:
 
@@ -337,7 +342,7 @@ V:
 </figure>
 
 N:
-Francisco Miranda <-> Goethe :-> [colombian flag](http://en.wikipedia.org/wiki/Theory_of_Colours#Influence_on_Latin_American_flags)
+Francisco de Miranda <-> Goethe meeting in Weimar 1785 :-> [colombian flag](http://en.wikipedia.org/wiki/Theory_of_Colours#Influence_on_Latin_American_flags)
 
 V:
 
@@ -347,6 +352,15 @@ V:
 	<iframe data-autoplay width="420" height="345" src="http://www.youtube.com/embed/MmhSXTMTtJM"></iframe>
 </section>
 [Johann Wolfgang von Goethe](http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe). Theory of Colors (1810)
+
+V:
+
+## Color Models: CMY(K)
+
+<figure>
+    <img height='400' src='fig/cmy.png'/>
+    <figcaption>CMY: primary and secondary colors</figcaption>
+</figure>
 
 V:
 
@@ -420,9 +434,21 @@ V:
 ## Color Models: HSV and HSL
 
 <figure>
-    <img height='500' src='fig/hsv_hsl_derivation.png'/>
-    <figcaption>Geometry derivation</figcaption>
+    <img height='500' src='fig/geom_deriv.png'/>
+    <figcaption>HSV & HSL Geometric derivation</figcaption>
 </figure>
+
+V:
+
+## Color Models: HSV and HSL
+
+<figure>
+    <img height='600' src='fig/hsv_hsl_derivation.png'/>
+</figure>
+
+N:
+[bug next slide note appear here]
+Luma takes: gamma-corrected R, G, and B
 
 V:
 
@@ -432,9 +458,6 @@ V:
     <img height='500' src='fig/hsl-hsv_lightness.png'/>
     <figcaption>HSV & HSL "lighthness"</figcaption>
 </figure>
-
-N:
-Luma takes: gamma-corrected R, G, and B
 
 V:
 
@@ -460,7 +483,7 @@ V:
 
 * International Commission on Illumination (CIE)
 * CIE 1931 RGB + CIE 1931 XYZ
-* Physical pure colors (wavelength)  physiological perceived colors in human color vision
+* Physical pure colors (wavelength) <-> physiological perceived colors in human color vision
 * Translate different srcs into a universal human color vision response
 
 V:
@@ -496,7 +519,7 @@ V:
 
 ## Color Models: CIE 1931 XYZ
 
-Observation: $X$ and $Z$ are $f(x,y,Z)$:
+Observation: $X$ and $Z$ are $f(x,y,Y)$:
   $$X=\frac{Y}{y}x</math>$$
   $$Z=\frac{Y}{y}(1-x-y)$$
 
@@ -534,3 +557,10 @@ H:
 * [Color](http://en.wikipedia.org/wiki/Color)
 * [Color Vision](http://en.wikipedia.org/wiki/Color_vision)
 * [Color Theory](http://en.wikipedia.org/wiki/Color_theory)
+* [Some women may see 100 million colors, thanks to their genes](http://www.post-gazette.com/news/health/2006/09/13/Some-women-may-see-100-million-colors-thanks-to-their-genes/stories/200609130255)
+* [RGB color model](http://en.wikipedia.org/wiki/RGB_color_model)
+* [RYB Color model](http://en.wikipedia.org/wiki/RYB_color_model)
+* [Theory of Colours. Goethe](https://theoryofcolor.org/Theory+of+Colours)
+* [CMY(K)](http://en.wikipedia.org/wiki/CMYK_color_model)
+* [HSV & HSL color models](http://en.wikipedia.org/wiki/HSL_and_HSV)
+* [CIE 1931 XYZ](http://en.wikipedia.org/wiki/CIE_1931_color_space)

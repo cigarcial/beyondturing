@@ -503,7 +503,7 @@ The CIE standard observer color matching functions
 
 <img height="380" src="fig/color_matching_fx.png">
 
-X -> Blue stimulation, Y -> Luminance, Z -> Mix of cone response curves chosen to be nonnegative
+Z -> Blue stimulation, Y -> Luminance, X -> Mix of cone response curves chosen to be nonnegative
 
 V:
 
@@ -564,3 +564,4 @@ H:
 * [CMY(K)](http://en.wikipedia.org/wiki/CMYK_color_model)
 * [HSV & HSL color models](http://en.wikipedia.org/wiki/HSL_and_HSV)
 * [CIE 1931 XYZ](http://en.wikipedia.org/wiki/CIE_1931_color_space)
+* [Solarized](http://ethanschoonover.com/solarized)

@@ -147,7 +147,7 @@ V:
 ### Motion after-effects
 
 <section>
-	<iframe data-autoplay width="420" height="345" src="http://www.youtube.com/embed/GhyEIAfyXx8"></iframe>
+	<iframe width="420" height="345" src="http://www.youtube.com/embed/GhyEIAfyXx8"></iframe>
 </section>
 
 V:
@@ -350,7 +350,7 @@ V:
 ## Color Models: RYB
 
 <section>
-	<iframe data-autoplay width="420" height="345" src="http://www.youtube.com/embed/MmhSXTMTtJM"></iframe>
+	<iframe width="420" height="345" src="http://www.youtube.com/embed/MmhSXTMTtJM"></iframe>
 </section>
 [Johann Wolfgang von Goethe](http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe). Theory of Colors (1810)
 
@@ -476,6 +476,26 @@ V:
 <figure>
     <img height='500' src='fig/kcolorchooser.png'/>
     <figcaption>KColorChooser</figcaption>
+</figure>
+
+V:
+
+## Color Models: HSV and HSL
+### Disadvantages
+
+<figure>
+    <img height='500' src='fig/plate1.png'/>
+    <figcaption>Perceptual lighthness response</figcaption>
+</figure>
+
+V:
+
+## Color Models: HSV and HSL
+### Disadvantages
+
+<figure>
+    <img height='500' src='fig/plate2.png'/>
+    <figcaption>Shifted hue affects lightness</figcaption>
 </figure>
 
 V:

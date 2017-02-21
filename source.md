@@ -505,7 +505,6 @@ V:
 * International Commission on Illumination (CIE)
 * CIE 1931 RGB + CIE 1931 XYZ
 * Physical pure colors (wavelength) <-> physiological perceived colors in human color vision
-* Translate different srcs into a universal human color vision response
 
 V:
 

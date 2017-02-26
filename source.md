@@ -27,13 +27,13 @@ H:
 
 # Index
 
- 1. Motivation<!-- .element: class="fragment" data-fragment-index="2"-->
+ 1. Motivation<!-- .element: class="fragment" data-fragment-index="1"-->
      1. Geometric Illusions - Coffee Wall 
      2. Geometric Illusions - Hering's
  2. Riemmanian Geometry<!-- .element: class="fragment" data-fragment-index="2"-->
      1. Fundamentals
      2. Types of geometries
- 3. Why Riemmanian Geometry ?
+ 3. Why Riemmanian Geometry ? <!-- .element: class="fragment" data-fragment-index="3"-->
      1. Why Riemmanian geometry ? 
      2. Heiring's Illusions - Variation
      3. Ideas from the articles. 
@@ -45,14 +45,14 @@ H:
 ## Motivation
 
  1. Geometric Illusions - Coffe Wall <!-- .element: class="fragment" data-fragment-index="1"-->
- 2. Geometric Illusions - Coffe Wall <!-- .element: class="fragment" data-fragment-index="2"-->
+ 2. Geometric Illusions - Hering's Type <!-- .element: class="fragment" data-fragment-index="2"-->
 
 V:
 
 ## Geometric Illusions - Coffe Wall
 
 <figure>
-    <img height='200' src='fig/visible_spectra.jpg' />
+    <img height='700' src='fig/coffe-wall.png' />
 </figure>
 
 V:
@@ -60,7 +60,8 @@ V:
 ## Geometric Illusions - Hering's 
 
 <figure>
-    <img height='400' src='fig/visible_spectrum_colors.png' />
+    <img height='550' src='fig/hering-1.jpg' />
+    <figcaption> Taken from [1] <figcaption/>
 </figure>
 
 H:
@@ -69,31 +70,54 @@ H:
 
 * The Sphere Geometry 
 
+
+<figure>
+    <img height='450' src='fig/sphere.png' />
+</figure>
+
+
 V:
 
 ## Fundamentals 
 
 * There are no parallel lines to a given line.
 
+<figure>
+    <img height='450' src='fig/geodesic.png' />
+</figure>
+
 V:
 
 ## Types of Geometry
 
 <figure>
-    <img height='400' src='fig/additive.png'/>
+    <img height='500' src='fig/non-euclidean.png'/>
 </figure>
-
-
 
 H:
 
 ## Why Riemmanian Geometry ?
 
+* Is the Euclidean geometry the correct for the eye ?
+<figure>
+    <img height='500' src='fig/eye.jpg'/>
+</figure>
+
 V: 
 ## Heiring's Illusions - Variation
 
+<figure>
+    <img height='450' src='fig/hering-2.jpg' />
+    <figcaption> Taken from [2] <figcaption/>
+</figure>
+
 V:
 ## Ideas from the articles. 
+
+ | Context Perturbation | Optimization |
+ |---------------|-------|
+ | “We conceive of the deformations of the target as resulting from a context-induced perturbation of that ‘‘base’’ geometry.”  |  “We propose to model the perceptual distortion of the target as the solution to a minimization problem in the calculus of variations."[geodesics]     |
+
 
 V:
 
@@ -104,9 +128,16 @@ H:
      
 ## References
 
-* [ Ehm, W., & Wackermann, J. (2016). Geometric–optical illusions and Riemannian geometry. Journal Of Mathematical Psychology, 7128-38. doi:10.1016/j.jmp.2016.01.005 ]( http://www.sciencedirect.com/science/article/pii/S0022249616000079 )
+* [1] [ Ehm, W., & Wackermann, J. (2016). Geometric–optical illusions and Riemannian geometry. Journal Of Mathematical Psychology, 7128-38. doi:10.1016/j.jmp.2016.01.005 ]( http://www.sciencedirect.com/science/article/pii/S0022249616000079 ).
 
-* [ Ehm, W., & Wackermann, J. (2012). Modeling geometric–optical illusions: A variational approach. Journal Of Mathematical Psychology, 56404-416. doi:10.1016/j.jmp.2012.12.001  ] ( http://www.sciencedirect.com/science/article/pii/S002224961200123X  )
+* [2] [ Ehm, W., & Wackermann, J. (2012). Modeling geometric–optical illusions: A variational approach. Journal Of Mathematical Psychology, 56404-416. doi:10.1016/j.jmp.2012.12.001  ]( http://www.sciencedirect.com/science/article/pii/S002224961200123X  )
 
-* Images taken from [Wikimedia] (https://commons.wikimedia.org/wiki/)
+* Mathematical Visualization [Charles Gunn](http://page.math.tu-berlin.de/~gunn/)
+
+* Images taken from [Wikimedia](https://commons.wikimedia.org/wiki/)
+
+* [ Lovecraft Science ](https://lovecraftianscience.wordpress.com/2014/01/23/lovecraft-and-mathematics-non-euclidean-geometry/)
+
+* [Non Euclidean Gallery ](http://www.deviantart.com/tag/noneuclidean?offset=14)
+
 

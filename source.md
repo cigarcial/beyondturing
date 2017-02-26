@@ -19,9 +19,9 @@
 
 H:
 
-# Colors
+# Geometric optical Ilussions and Riemman Geometry
 
-Jean Pierre Charalambos
+Ciro Iván García López
 
 H:
 

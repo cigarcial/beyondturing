@@ -123,6 +123,10 @@ V:
 
 ## And now ...  
 
+* “Our geometric paradigm may be reminiscent of studies of the metric properties of visual space, a topic at times intensely debated In the vision research.”
+
+* “Some of these limitations follow naturally from our decision for a ‘‘phenomenological’’, i.e.purely descriptive theory of the GOI phenomena(Wackermann, 2010), disregarding possibly underlying neuro physiological or neuro psychological mechanism.”
+
 
 H: 
      

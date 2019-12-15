@@ -19,50 +19,35 @@
 
 H:
 
-# Geometric optical Ilussions and Riemannian Geometry
+# Beyond Turing Computing
 
 Ciro Iván García López
 
 H:
 
-# Index
+# Contents
 
- 1. Motivation<!-- .element: class="fragment" data-fragment-index="1"-->
-     1. Geometric Illusions - Coffee Wall 
-     2. Geometric Illusions - Hering's
- 2. Riemmanian Geometry<!-- .element: class="fragment" data-fragment-index="2"-->
-     1. Fundamentals
-     2. Types of geometries
- 3. Why Riemmanian Geometry ? <!-- .element: class="fragment" data-fragment-index="3"-->
-     1. Why Riemmanian geometry ? 
-     2. Heiring's Illusions - Variation
-     3. Ideas from the articles. 
-     4. And now ...  
+ 1. Introduction<!-- .element: class="fragment" data-fragment-index="1"-->
+ 2. Classic Models of Computation<!-- .element: class="fragment" data-fragment-index="1"-->
+ 3. Equivalence Between Models<!-- .element: class="fragment" data-fragment-index="1"-->
+ 4. Turing on the Edge<!-- .element: class="fragment" data-fragment-index="1"-->
+ 5. Beyond Turing Computing<!-- .element: class="fragment" data-fragment-index="1"-->
+
      
      
 H:
 
-## Motivation
+## Introduction
 
- 1. Geometric Illusions - Coffe Wall <!-- .element: class="fragment" data-fragment-index="1"-->
- 2. Geometric Illusions - Hering's Type <!-- .element: class="fragment" data-fragment-index="2"-->
-
-V:
-
-## Geometric Illusions - Coffe Wall
-
-<figure>
-    <img height='700' src='fig/coffe-wall.png' />
-</figure>
+The study of computability has its origin in Hilbert's conference of 1900, where an adjacent question, to the ones he asked, is to give a precise description of the notion of algorithm. 
 
 V:
 
-## Geometric Illusions - Hering's 
+In the search for a good definition arose three independent theories: 
 
-<figure>
-    <img height='550' src='fig/hering-1.jpg' />
-    <figcaption> Taken from [1] <figcaption/>
-</figure>
+1. Turing and the Turing machines.
+2. Gödel and the recursive functions.
+3. Church and the Lambda Calculus. 
 
 H:
 

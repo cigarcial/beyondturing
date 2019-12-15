@@ -22,6 +22,10 @@ H:
 # Beyond Turing Computing
 
 Ciro Iván García López
+Advisor: Rodrigo de Castro Korgi
+
+Departamento de Matemáticas
+Universidad Nacional de Colombia
 
 H:
 
@@ -33,8 +37,6 @@ H:
  4. Turing on the Edge<!-- .element: class="fragment" data-fragment-index="1"-->
  5. Beyond Turing Computing<!-- .element: class="fragment" data-fragment-index="1"-->
 
-     
-     
 H:
 
 ## Introduction
@@ -49,19 +51,21 @@ In the search for a good definition arose three independent theories:
 2. Gödel and the recursive functions.
 3. Church and the Lambda Calculus. 
 
+V:
+
+Later there were established that the classic models of computation are equivalent \cite{kleene1936}. This fact is widely accepted by many textbooks and the proof is omitted since the proof is tedious and unreadable. We intend to fill this gap presenting the proof in a modern way, without forgetting the mathematical details.
+
+V: 
+
+Using the classic models one could compute many interesting functions. Despite this, it can be shown that easy and common task is not computable using classic models \cite{Eberbach2004}. In other words, classic models are powerful but not a whole, it was necessary to search for new and different ideas of computable.
+
 H:
 
-## Riemmanian Geometry
-
-* The Sphere Geometry 
-
-
-<figure>
-    <img height='450' src='fig/sphere.png' />
-</figure>
-
+## Classic Models of Computation
 
 V:
+
+'$x_{1}$'
 
 ## Fundamentals 
 

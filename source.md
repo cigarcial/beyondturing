@@ -20,7 +20,7 @@
 H:
 
 # Beyond Turing Computing
-`$x_{1}$`
+`$3\times 3$` 
 Ciro Iván García López
 
 Advisor: Rodrigo de Castro Korgi

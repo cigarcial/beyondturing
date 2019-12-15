@@ -20,11 +20,13 @@
 H:
 
 # Beyond Turing Computing
-`$_{1}$`
+`$x_{1}$`
 Ciro Iván García López
+
 Advisor: Rodrigo de Castro Korgi
 
 Departamento de Matemáticas
+
 Universidad Nacional de Colombia
 
 H:

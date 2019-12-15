@@ -20,7 +20,7 @@
 H:
 
 # Beyond Turing Computing
-`$3\times 3$` 
+`$$ J(\theta_0,\theta_1) = \sum_{i=0} $$`
 Ciro Iván García López
 
 Advisor: Rodrigo de Castro Korgi
